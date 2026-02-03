@@ -5,7 +5,7 @@ title: Lista wydarzeń
 
 <h1>Wydarzenia</h1>
 
-<ul>
+<ol>
     {% for e in site.data.events %}
     <li>
         <a href="{{ site.baseurl }}/events/event.html?id={{ e.id }}">
@@ -13,4 +13,4 @@ title: Lista wydarzeń
         </a>
     </li>
     {% endfor %}
-</ul>
+</ol>

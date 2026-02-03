@@ -1,0 +1,514 @@
+[
+  {
+    "id": "56069e71-5efa-4746-b857-8ad737f39b38",
+    "date_human": "27 p.n.e.",
+    "date_numeric": -27,
+    "event": "Początek Cesarstwa Rzymskiego",
+    "meaning": "Augustus zostaje pierwszym cesarzem, rozpoczynając okres największej potęgi Rzymu."
+  },
+  {
+    "id": "9496df35-8447-46fe-b021-0dfb04047af0",
+    "date_human": "313",
+    "date_numeric": 313,
+    "event": "Edykt mediolański",
+    "meaning": "Konstantyn legalizuje chrześcijaństwo, co zmienia religijną historię Europy."
+  },
+  {
+    "id": "282a3f79-7504-4c97-9c84-a3ef60d12372",
+    "date_human": "380",
+    "date_numeric": 380,
+    "event": "Edykt Teodozjusza",
+    "meaning": "Chrześcijaństwo stało się religją cesarstwa rzymskiego."
+  },
+  {
+    "id": "93e5b1b1-cf8b-4478-8a05-392110f22d11",
+    "date_human": "476",
+    "date_numeric": 476,
+    "event": "Upadek Cesarstwa Zachodniorzymskiego",
+    "meaning": "Ostatni cesarz zostaje obalony; koniec starożytności i początek średniowiecza."
+  },
+  {
+    "id": "f4b926db-eed6-4836-8502-d1a79e46ad99",
+    "date_human": "622",
+    "date_numeric": 622,
+    "event": "Hidżra Mahometa do Medyny",
+    "meaning": "Początek islamu jako zorganizowanej wspólnoty i start kalendarza muzułmańskiego."
+  },
+  {
+    "id": "73b00cd7-bddf-4d19-95f8-b2aa554309ba",
+    "date_human": "732",
+    "date_numeric": 732,
+    "event": "Bitwa pod Poitiers",
+    "meaning": "Wojska frankijskie powstrzymują ekspansję muzułmańską w Europie Zachodniej."
+  },
+  {
+    "id": "c8ec0bd5-51c4-4969-a905-2e88e0306b70",
+    "date_human": "800",
+    "date_numeric": 800,
+    "event": "Koronacja Karola Wielkiego",
+    "meaning": "Odtworzenie idei cesarstwa zachodniego; fundament średniowiecznej Europy."
+  },
+  {
+    "id": "a59ee8fe-12ff-4438-a9b8-57971af9048d",
+    "date_human": "843",
+    "date_numeric": 843,
+    "event": "Traktat w Verdun",
+    "meaning": "Podział imperium Karola na trzy części — początek różnych państw europejskich"
+  },
+  {
+    "id": "cc85787a-e0a6-46a0-8ed8-977549dd532b",
+    "date_human": "871–899",
+    "date_numeric": 871,
+    "event": "Panowanie Alfreda Wielkiego",
+    "meaning": "Reformy i opór Anglii wobec Wikingów"
+  },
+  {
+    "id": "1d3df192-fa3a-4414-b881-bd96b0b22293",
+    "date_human": "962",
+    "date_numeric": 962,
+    "event": "Koronacja Ottona I",
+    "meaning": "Konsolidacja Świętego Cesarstwa Rzymskiego"
+  },
+  {
+    "id": "1e74ec49-e1cc-41f6-9e92-0c1b41c65c55",
+    "date_human": "966",
+    "date_numeric": 966,
+    "event": "Chrzest Mieszka I",
+    "meaning": "Początek państwowości polskiej i wejście Polski do kultury europejskiej."
+  },
+  {
+    "id": "33f0e0d2-e2ee-43af-a83c-08e310f7f890",
+    "date_human": "1025",
+    "date_numeric": 1025,
+    "event": "Koronacja Bolesława Chrobrego",
+    "meaning": "Bolesław I Chrobry zostaje pierwszym królem Polski a polska staje się monarchią."
+  },
+  {
+    "id": "c556dbce-5eaf-4ef3-80d6-58b3877507ab",
+    "date_human": "1054",
+    "date_numeric": 1054,
+    "event": "Wielka schizma",
+    "meaning": "Kościół dzieli się na katolicki i prawosławny, co wpływa na politykę i kulturę Europy."
+  },
+  {
+    "id": "d9206eec-1627-4be6-b877-840c69d3c42c",
+    "date_human": "1096–1099",
+    "date_numeric": 1096,
+    "event": "I wyprawa krzyżowa",
+    "meaning": "Zdobycie Jerozolimy i powstanie państw krzyżowców"
+  },
+  {
+    "id": "419e432f-e4cd-4b35-8103-b8d48091a7a5",
+    "date_human": "1187",
+    "date_numeric": 1187,
+    "event": "Bitwa pod Hittin",
+    "meaning": "Saladyn odzyskuje Jerozolimę"
+  },
+  {
+    "id": "8f3db2c0-b124-4a0a-9509-6f5a9dd6beea",
+    "date_human": "1241",
+    "date_numeric": 1241,
+    "event": "Najazd Mongołów na Europę Środkową",
+    "meaning": "Bitwy pod Legnicą i Mohi — poważne zagrożenie dla Europy Środkowej"
+  },
+  {
+    "id": "90c3bd3a-d5a4-4148-b787-4a6b075e649f",
+    "date_human": "1271–1295",
+    "date_numeric": 1271,
+    "event": "Podróże Marco Polo",
+    "meaning": "Zwiększenie kontaktów między Europą a Azją"
+  },
+  {
+    "id": "65620def-77a4-418f-a4a2-27a845f1d1c4",
+    "date_human": "1315–1317",
+    "date_numeric": 1315,
+    "event": "Wielki głód w Europie",
+    "meaning": "Klęska nieurodzaju i zimna spowodowały śmierć około 7–10 milionów ludzi w Europie z głodu."
+  },
+  {
+    "id": "38db28f0-2461-481e-a00d-9dbc6f1a6ed4",
+    "date_human": "1347–1351",
+    "date_numeric": 1347,
+    "event": "Czarna Śmierć w Europie",
+    "meaning": "Dżuma zabija jedną trzecią ludności kontynentu, zmieniając gospodarkę i społeczeństwa."
+  },
+  {
+    "id": "9ad716dc-2838-4c29-9959-86765012ff05",
+    "date_human": "1386",
+    "date_numeric": 1386,
+    "event": "Unia polsko-litewska",
+    "meaning": "Połączenie dynastii i początek wspólnego, silnego państwa."
+  },
+  {
+    "id": "119b378b-8647-41e4-9ab4-720258f2dcd5",
+    "date_human": "1410",
+    "date_numeric": 1410,
+    "event": "Bitwa pod Grunwaldem",
+    "meaning": "Polska i Litwa pokonały Krzyżaków, co osłabiło ich potęgę i wzmocniło pozycję Polski w regionie."
+  },
+  {
+    "id": "f4aa8150-f924-485d-b2e7-b4e94945ad77",
+    "date_human": "1415",
+    "date_numeric": 1415,
+    "event": "Bitwa pod Azincourt",
+    "meaning": "Angielskie zwycięstwo nad Francją w trakcie Wojny Stuletniej",
+    "important_for_poland": false
+  },
+  {
+    "id": "05ba6244-5924-4962-983d-64b42b554218",
+    "date_human": "1431",
+    "date_numeric": 1431,
+    "event": "Śmierć Joanny d’Arc",
+    "meaning": "Joanna d’Arc została spalona na stosie, co zakończyło jej walkę za Francję w wojnie stuletniej, ale stała się symbolem odwagi."
+  },
+  {
+    "id": "49ad78d6-77e4-46ad-b7a4-7a29f39b6253",
+    "date_human": "ok. 1450",
+    "date_numeric": 1450,
+    "event": "Wynalezienie druku przez Gutenberga",
+    "meaning": "Ruchoma czcionka pozwoliła szybko tanio drukować książki, dzięki czemu wiedza rozprzestrzeniała się znacznie szybciej."
+  },
+  {
+    "id": "0f609829-bba0-4881-8d73-72a1efdedcc2",
+    "date_human": "1453",
+    "date_numeric": 1453,
+    "event": "Upadek Konstantynopola",
+    "meaning": "Koniec Bizancjum; Turcy zdobywają kluczowe miasto i umacniają imperium osmańskie."
+  },
+  {
+    "id": "9cc50b5b-2912-460b-afbc-0c99daac4428",
+    "date_human": "1492",
+    "date_numeric": 1492,
+    "event": "Wyprawa Kolumba",
+    "meaning": "Europejczycy docierają do Ameryki, co rozpoczyna epokę kolonizacji."
+  },
+  {
+    "id": "37df6d60-db76-4424-afd0-a7ad25b847bc",
+    "date_human": "1517",
+    "date_numeric": 1517,
+    "event": "Początek reformacji",
+    "meaning": "Marcin Luter i podział religijny w Europie"
+  },
+  {
+    "id": "60c16617-2812-41e6-bb94-88520fd1e984",
+    "date_human": "1520–1566",
+    "date_numeric": 1520,
+    "event": "Panowanie Sulejmana Wspaniałego",
+    "meaning": "Szczyt potęgi Imperium Osmańskiego"
+  },
+  {
+    "id": "408db5c3-d6b5-4065-933a-3b6233602069",
+    "date_human": "1543",
+    "date_numeric": 1543,
+    "event": "Publikacja dzieła Kopernika",
+    "meaning": "Początek przewrotu kopernikańskiego — Ziemia nie jest centrum kosmosu"
+  },
+  {
+    "id": "f7b3d30b-f4e9-4dff-aa8f-16752cd17b7d",
+    "date_human": "1572-08-24",
+    "date_numeric": 15720824,
+    "event": "Noc Świętego Bartłomieja",
+    "meaning": "Masakra hugenotów we Francji podczas konfliktów religijnych między katolikami a protestantami (20 tysięcy zabitych)."
+  },
+  {
+    "id": "cdcddea5-97bb-4313-857a-d04ff906d76c",
+    "date_human": "1588",
+    "date_numeric": 1588,
+    "event": "Klęska Wielkiej Armady",
+    "meaning": "Porażka Hiszpanii na morzu wobec Anglii"
+  },
+  {
+    "id": "2bc6a580-3471-4b5c-bba5-99d595d78d8a",
+    "date_human": "1607",
+    "date_numeric": 1607,
+    "event": "Założenie Jamestown",
+    "meaning": "początek stałych osad angielskich w Ameryce Północnej"
+  },
+  {
+    "id": "fbf6d187-64d2-4be9-afd5-e82a6b1f4432",
+    "date_human": "1618–1648",
+    "date_numeric_start": 1618,
+    "event": "Wojna trzydziestoletnia",
+    "meaning": "Konflikt religijny i polityczny w Europie Środkowej, który zniszczył wiele miast i osłabił państwa niemieckie."
+  },
+  {
+    "id": "11cfe52b-edcd-4a1a-949d-0c3edf03bab0",
+    "date_human": "1712",
+    "date_numeric": 1712,
+    "event": "Maszyna parowa Newcomena",
+    "meaning": "Pierwsza praktyczna maszyna parowa, używana do pompowania wody z kopalń, co dało początek rewolucji przemysłowej."
+  },
+  {
+    "id": "95110112-2a32-4ae4-bc55-529043fe655a",
+    "date_human": "1756–1763",
+    "date_numeric": 1756,
+    "event": "Wojna siedmioletnia",
+    "meaning": "Konflikt między Prusami i Wielką Brytanią a Austrią, Francją, Rosją i innymi, który zmienił układ sił w Europie i koloniach."
+  },
+  {
+    "id": "7284ef1b-40ed-474f-b6c6-b808c7bfc6b7",
+    "date_human": "1776-07-04",
+    "date_numeric": 1776,
+    "event": "Deklaracja Niepodległości USA",
+    "meaning": "Trzynaście kolonii ogłosiło niezależność od Wielkiej Brytanii, rozpoczynając powstanie Stanów Zjednoczonych."
+  },
+  {
+    "id": "2ac8e39f-7c08-41f7-9800-3ef4965ac0c4",
+    "date_human": "1787-09-17",
+    "date_numeric": 1787,
+    "event": "Konstytucja USA",
+    "meaning": "Ustanowiła zasady rządu federalnego, podział władzy i prawa obywateli, stając się podstawą działania USA."
+  },
+  {
+    "id": "9e5cdb9d-c22d-47f0-947b-1bb75e17a9b7",
+    "date_human": "1789",
+    "date_numeric": 1789,
+    "event": "Zdobycie Bastylii - Wybuch rewolucji francuskiej",
+    "meaning": "Upadek absolutnej władzy królów i narodziny nowoczesnych idei wolności i równości."
+  },
+  {
+    "id": "741ea023-b2a7-4695-9fea-65155301c936",
+    "date_human": "1791-05-03",
+    "date_numeric": 1791,
+    "event": "Konstytucja 3 maja",
+    "meaning": "Próba naprawy państwa polskiego i jedna z pierwszych nowoczesnych konstytucji na świecie."
+  },
+  {
+    "id": "47e72d49-5c24-4a2b-92aa-e1778a8aeff7",
+    "date_human": "1791-09-03",
+    "date_numeric": 1791,
+    "event": "Pierwsza konstytucja Francji",
+    "meaning": "Francja przyjęła konstytucję ograniczającą władzę króla i wprowadzającą monarchię konstytucyjną."
+  },
+  {
+    "id": "c3f35f46-b104-4c14-a92a-32e1a0773f61",
+    "date_human": "1772",
+    "date_numeric": 1772,
+    "event": "I rozbiór Polski",
+    "meaning": "Część terytorium Polski zostaje podzielona między Rosję, Prusy i Austrię, osłabiając państwo."
+  },
+  {
+    "id": "a78b6bf1-6bc9-4b55-9d65-03b6d8a51612",
+    "date_human": "1783-11-21",
+    "date_numeric": 1783,
+    "event": "Pierwszy lot balonem",
+    "meaning": "Bracia Montgolfier wykonują pierwszy udany lot balonem na gorące powietrze, rozpoczynając erę lotów powietrznych."
+  },
+  {
+    "id": "272d1723-aa3e-4764-9858-1b2404b05f74",
+    "date_human": "1793",
+    "date_numeric": 1793,
+    "event": "II rozbiór Polski",
+    "meaning": "Rosja i Prusy zajmują część terytorium Polski, osłabiając państwo i ograniczając jego suwerenność."
+  },
+  {
+    "id": "f7544ba2-0010-4b7e-88f6-a1a0703f3d65",
+    "date_human": "1795",
+    "date_numeric": 1795,
+    "event": "III rozbiór Polski",
+    "meaning": "Polska przestaje istnieć jako państwo, jej terytorium zostaje podzielone między Rosję, Prusy i Austrię."
+  },
+  {
+    "id": "df877a2f-d1b5-411d-850f-147f9c270a0d",
+    "date_human": "1804-12-02",
+    "date_numeric": 1804,
+    "event": "Napoleon ogłasza się cesarzem",
+    "meaning": "Napoleon Bonaparte koronuje się na cesarza Francuzów, rozpoczynając okres Cesarstwa Francuskiego."
+  },
+  {
+    "id": "048a066c-8143-4297-9e97-85ec5ffb0637",
+    "date_human": "1815-06-18",
+    "date_numeric": 1815,
+    "event": "Bitwa pod Waterloo",
+    "meaning": "Napoleon ponosi klęskę przeciwko siłom brytyjskim i pruskim, kończąc swoje panowanie i okres wojen napoleońskich."
+  },
+  {
+    "id": "f569c8c4-347d-4dcb-983c-2004c64e859b",
+    "date_human": "1848",
+    "date_numeric": 1848,
+    "event": "Wiosna Ludów",
+    "meaning": "Seria rewolucji w Europie walczących o wolność, prawa obywatelskie i niepodległość narodową."
+  },
+  {
+    "id": "664e05d8-3504-4096-8b67-0f9c641dde51",
+    "date_human": "1859",
+    "date_numeric": 1859,
+    "event": "Opublikowanie pracy Darwina",
+    "meaning": "Charles Darwin publikuje 'O powstawaniu gatunków', opisując teorię ewolucji przez dobór naturalny."
+  },
+  {
+    "id": "f78e6678-6884-4189-92c7-1e7d859ed93a",
+    "date_human": "1861–1865",
+    "date_numeric": 1861,
+    "event": "Wojna secesyjna w USA",
+    "meaning": "Konflikt między Północą a Południem USA o niewolnictwo i władzę federalną, kończący się zwycięstwem Północy."
+  },
+  {
+    "id": "88c1508a-4e7b-4348-8d7f-7faa2ebf0a75",
+    "date_human": "1870–1871",
+    "date_numeric": 1870,
+    "event": "Wojna francusko-pruska",
+    "meaning": "Prusy pokonują Francję, co prowadzi do upadku cesarstwa we Francji i powstania Cesarstwa Niemieckiego (II Rzeszy)."
+  },
+  {
+    "id": "c6391b8d-3656-40d9-9ae8-a67310971603",
+    "date_human": "1876",
+    "date_numeric": 1876,
+    "event": "Wynalezienie telefonu",
+    "meaning": "Alexander Graham Bell wynalazł telefon, umożliwiając natychmiastową komunikację na odległość."
+  },
+  {
+    "id": "233609cf-9f4d-4bcd-b477-3a9d0a2734bc",
+    "date_human": "1884–1885",
+    "date_numeric": 1884,
+    "event": "Konferencja Berlińska",
+    "meaning": "Europejskie mocarstwa dzielą Afrykę między siebie, co przyspiesza kolonializm na kontynencie."
+  },
+  {
+    "id": "6eb3398c-020b-434f-a534-adae1137fd17",
+    "date_human": "1895",
+    "date_numeric": 1895,
+    "event": "Wynalezienie radia",
+    "meaning": "Guglielmo Marconi opracowuje pierwsze działające radio, co umożliwia bezprzewodową transmisję dźwięku na odległość."
+  },
+  {
+    "id": "de0f0019-bcd5-46c3-9ade-d9382c9eebc3",
+    "date_human": "1903-12-17",
+    "date_numeric": 1903,
+    "event": "Pierwszy udany lot braci Wright",
+    "meaning": "Orville i Wilbur Wright wykonują pierwszy kontrolowany lot samolotem, zapoczątkowując erę lotnictwa."
+  },
+  {
+    "id": "3e170adc-6d2f-46dd-bc7e-c1c73ff83b5a",
+    "date_human": "1914–1918",
+    "date_numeric": 1914,
+    "event": "I wojna światowa",
+    "meaning": "Ogromny konflikt, który zmienia granice i układ sił w Europie."
+  },
+  {
+    "id": "b4c8117d-3231-491d-8cca-ecac9ebf10c0",
+    "date_human": "1918-11-11",
+    "date_numeric": 1918,
+    "event": "Odzyskanie niepodległości przez Polskę",
+    "meaning": "Po 123 latach zaborów Polska odzyskuje suwerenność i powstaje II Rzeczpospolita."
+  },
+  {
+    "id": "b1b7fd35-5f29-45ae-b3a6-6f7ffdbe5d2f",
+    "date_human": "1920-08",
+    "date_numeric": 1920,
+    "event": "Bitwa warszawska",
+    "meaning": "Polskie wojska pokonują Armię Czerwoną, powstrzymując bolszewików i chroniąc niepodległość kraju."
+  },
+  {
+    "id": "1513905a-4d79-4c98-9bc2-4c1d70851b66",
+    "date_human": "1929",
+    "date_numeric": 1929,
+    "event": "Wielki Kryzys gospodarczy",
+    "meaning": "Światowa recesja zaczyna się od krachu giełdowego w USA, prowadząc do bezrobocia i biedy na całym świecie."
+  },
+  {
+    "id": "08b1b427-ca9f-478d-a6d5-dd059eb74594",
+    "date_human": "1933-01-30",
+    "date_numeric": 1933,
+    "event": "Hitler dochodzi do władzy",
+    "meaning": "Adolf Hitler zostaje kanclerzem Niemiec, rozpoczynając rządy nazistowskie i przygotowania do II wojny światowej."
+  },
+  {
+    "id": "4c792687-b477-4f30-b20a-b472187a142c",
+    "date_human": "1939-09-01",
+    "date_numeric": 1939,
+    "event": "Atak Niemiec na Polskę",
+    "meaning": "Niemcy rozpoczynają inwazję na Polskę, co jest początkiem II wojny światowej."
+  },
+  {
+    "id": "3d039bf9-dd7e-422b-9586-82b6d972867b",
+    "date_human": "1945-02",
+    "date_numeric": 194502,
+    "event": "Konferencja w Jałcie",
+    "meaning": "Przywódcy USA, ZSRR i Wielkiej Brytanii ustalają powojenny podział Europy i plany zakończenia wojny."
+  },
+  {
+    "id": "89140cac-7048-4af7-8cad-f62baa28678e",
+    "date_human": "1949-04-04",
+    "date_numeric": 1949,
+    "event": "Powstanie NATO",
+    "meaning": "Państwa zachodnie tworzą sojusz wojskowy, aby wspólnie bronić się przed zagrożeniem ze strony ZSRR."
+  },
+  {
+    "id": "d2265bf7-ea0d-45c2-a0b5-2901215e807e",
+    "date_human": "1959–1961",
+    "date_numeric": 1959,
+    "event": "Wielki głód w Chinach",
+    "meaning": "Polityka Wielkiego Skoku Naprzód i klęski żywiołowe spowodowały śmierć około 15–30 milionów ludzi z głodu."
+  },
+  {
+    "id": "2cfedeef-e098-4f42-aa9e-1b33efcc42ed",
+    "date_human": "1961-04-12",
+    "date_numeric": 1961,
+    "event": "Pierwszy człowiek w kosmosie",
+    "meaning": "Jurij Gagarin jako pierwszy człowiek odbywa lot orbitalny wokół Ziemi, otwierając erę eksploracji kosmosu."
+  },
+  {
+    "id": "9582a979-6471-4226-b937-8e0741c8af06",
+    "date_human": "1961-08-13",
+    "date_numeric": 1961,
+    "event": "Budowa Muru Berlińskiego",
+    "meaning": "NRD stawia mur dzielący Berlin, aby powstrzymać ucieczki obywateli do zachodniej części miasta."
+  },
+  {
+    "id": "c772d8b5-83f6-4e89-82d7-ba8f05a7941b",
+    "date_human": "1969-07-20",
+    "date_numeric": 1969,
+    "event": "Lądowanie na Księżycu",
+    "meaning": "Apollo 11 z astronautami Neilem Armstrongiem i Buzzem Aldrinem ląduje na Księżycu, pierwszy człowiek staje na jego powierzchni."
+  },
+  {
+    "id": "23d60067-9980-4675-aa3e-a87b93b28077",
+    "date_human": "1971",
+    "date_numeric": 1971,
+    "event": "Pierwszy mikroprocesor",
+    "meaning": "Firma Intel wprowadza pierwszy mikroprocesor, co zapoczątkowuje erę komputerów osobistych."
+  },
+  {
+    "id": "e6c615a6-9c2d-4cce-93cc-8495264be993",
+    "date_human": "1981-12-13",
+    "date_numeric": 1981,
+    "event": "Wprowadzenie stanu wojennego w Polsce",
+    "meaning": "Rząd PRL wprowadza stan wojenny, ograniczając wolności obywatelskie i represjonując opozycję, m.in. Solidarność."
+  },
+  {
+    "id": "36bb68da-4343-42f5-b5c0-6f463399a270",
+    "date_human": "1989-06-04",
+    "date_numeric": 1989,
+    "event": "Pierwsze wolne wybory w Polsce",
+    "meaning": "Polacy wybierają w wolnych wyborach przedstawicieli do parlamentu, rozpoczynając demokratyczną III Rzeczpospolitą."
+  },
+  {
+    "id": "5c594081-0950-4e6c-9661-5161ece8ce69",
+    "date_human": "1991",
+    "date_numeric": 1991,
+    "event": "Powstanie sieci WWW",
+    "meaning": "Tim Berners-Lee tworzy World Wide Web, umożliwiając łatwe przeglądanie i udostępnianie informacji w Internecie."
+  },
+  {
+    "id": "02ec373a-d65e-421a-958c-f5e8daaeba08",
+    "date_human": "1991-12-26",
+    "date_numeric": 1991,
+    "event": "Rozpad ZSRR",
+    "meaning": "Związek Radziecki oficjalnie przestaje istnieć, powstają niepodległe państwa, w tym Rosja i Ukraina."
+  },
+  {
+    "id": "283a67b2-6946-4a46-9014-38807b8889b1",
+    "date_human": "1993-11-01",
+    "date_numeric": 1993,
+    "event": "Powstanie Unii Europejskiej",
+    "meaning": "Na mocy Traktatu z Maastricht powstaje UE, integrująca kraje Europy w gospodarkę, politykę i prawo."
+  },
+  {
+    "id": "dae97f70-6a2c-485d-ae69-2e4d899e2a0c",
+    "date_human": "1998-09-04",
+    "date_numeric": 1998,
+    "event": "Wyszukiwarka Google",
+    "meaning": "Larry Page i Sergey Brin uruchamiają Google, umożliwiając szybkie i łatwe wyszukiwanie informacji w Internecie."
+  }
+]

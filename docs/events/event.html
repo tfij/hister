@@ -5,7 +5,9 @@ title: Wydarzenie
 
 <h1 id="event-title"></h1>
 <p id="event-meaning"></p>
+<div id="qrcode"></div>
 
+<script src="{{ site.baseurl }}/assets/js/qrcode.min.js"></script>
 <script>
     const params = new URLSearchParams(window.location.search);
     const id = params.get("id");
@@ -20,4 +22,10 @@ title: Wydarzenie
       document.getElementById("event-title").textContent = event.event;
       document.getElementById("event-meaning").textContent = event.meaning;
     }
+
+    new QRCode(document.getElementById("qrcode"), {
+      text: window.location.href,
+      width: 160,
+      height: 160
+  });
 </script>

@@ -1,0 +1,8 @@
+title: Historia – wydarzenia
+baseurl: ""
+url: ""
+
+collections:
+  events:
+    output: true
+    permalink: /events/:id/

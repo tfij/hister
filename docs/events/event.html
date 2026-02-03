@@ -1,0 +1,9 @@
+---
+layout: event
+---
+
+{% assign event = site.data.events | where: "id", page.id | first %}
+
+<h1>{{ event.event }}</h1>
+
+<p>{{ event.meaning }}</p>

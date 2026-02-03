@@ -1,6 +1,6 @@
 title: Historia – wydarzenia
-baseurl: ""
-url: ""
+baseurl: "/hister"
+url: "https://chi.pl/hister"
 
 collections:
   events:

@@ -3,12 +3,12 @@ layout: default
 title: Lista wydarzeń
 ---
 
-<h1>Wydarzenia historyczne</h1>
+<h1>Wydarzenia</h1>
 
 <ul>
     {% for e in site.data.events %}
     <li>
-        <a href="/events/{{ e.id }}/">
+        <a href="{{ site.baseurl }}/event.html?id={{ e.id }}">
             {{ e.date_human }} – {{ e.event }}
         </a>
     </li>

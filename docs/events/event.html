@@ -1,9 +1,23 @@
 ---
-layout: event
+layout: default
+title: Wydarzenie
 ---
 
-{% assign event = site.data.events | where: "id", page.id | first %}
+<h1 id="event-title"></h1>
+<p id="event-meaning"></p>
 
-<h1>{{ event.event }}</h1>
+<script>
+    const params = new URLSearchParams(window.location.search);
+    const id = params.get("id");
 
-<p>{{ event.meaning }}</p>
+    const events = {{ site.data.events | jsonify }};
+
+    const event = events.find(e => e.id === id);
+
+    if (!event) {
+      document.getElementById("event-title").textContent = "Nie znaleziono wydarzenia";
+    } else {
+      document.getElementById("event-title").textContent = event.event;
+      document.getElementById("event-meaning").textContent = event.meaning;
+    }
+</script>

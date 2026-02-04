@@ -510,5 +510,194 @@
     "date_numeric": 1998,
     "event": "Wyszukiwarka Google",
     "meaning": "Larry Page i Sergey Brin uruchamiają Google, umożliwiając szybkie i łatwe wyszukiwanie informacji w Internecie."
+  },
+  {
+    "id": "a1c9e4a2-3b4a-4e5b-9c12-01a1f0b1c001",
+    "date_human": "1830–1831",
+    "date_numeric": 1830,
+    "event": "Powstanie listopadowe",
+    "meaning": "Zryw niepodległościowy przeciwko Imperium Rosyjskiemu w Królestwie Polskim."
+  },
+  {
+    "id": "b2d7f5c3-6a8e-4c91-8d22-02b2f0c2d002",
+    "date_human": "1863–1864",
+    "date_numeric": 1863,
+    "event": "Powstanie styczniowe",
+    "meaning": "Najdłuższe i najbardziej masowe powstanie narodowe przeciwko zaborowi rosyjskiemu."
+  },
+  {
+    "id": "c3e8a6d4-9b7f-4e82-8a32-03c3a0d3e003",
+    "date_human": "1846",
+    "date_numeric": 1846,
+    "event": "Pierwsze publiczne użycie znieczulenia",
+    "meaning": "Zastosowanie eteru podczas operacji zapoczątkowało nowoczesną chirurgię."
+  },
+  {
+    "id": "d4f9b7e5-1c8a-4d73-9b42-04d4b0e4f004",
+    "date_human": "1928",
+    "date_numeric": 1928,
+    "event": "Odkrycie penicyliny",
+    "meaning": "Alexander Fleming odkrywa pierwszy antybiotyk, co rewolucjonizuje medycynę."
+  },
+  {
+    "id": "e5a0c8f6-2d9b-4e64-8c52-05e5c0f5a005",
+    "date_human": "1879",
+    "date_numeric": 1879,
+    "event": "Wynalezienie żarówki",
+    "meaning": "Thomas Edison konstruuje praktyczną żarówkę elektryczną, zmieniając codzienne życie ludzi."
+  },
+  {
+    "id": "f6b1d9a7-3e0c-4f55-9d62-06f6d0a6b006",
+    "date_human": "1905",
+    "date_numeric": 1905,
+    "event": "Teoria względności Einsteina",
+    "meaning": "Albert Einstein publikuje szczególną teorię względności, zmieniając rozumienie czasu i przestrzeni."
+  },
+  {
+    "id": "07c2eab8-4f1d-4a46-8e72-07a7e0b7c007",
+    "date_human": "1911",
+    "date_numeric": 1911,
+    "event": "Odkrycie jądra atomowego",
+    "meaning": "Ernest Rutherford odkrywa istnienie jądra atomowego, kładąc fundamenty fizyki jądrowej."
+  },
+  {
+    "id": "18d3fbc9-502e-4b37-9f82-08b8f0c8d008",
+    "date_human": "1953",
+    "date_numeric": 1953,
+    "event": "Odkrycie struktury DNA",
+    "meaning": "James Watson i Francis Crick opisują podwójną helisę DNA, przełom w biologii i medycynie."
+  },
+  {
+    "id": "29e40cda-613f-4c28-8a92-09c9a0d9e009",
+    "date_human": "1986-04-26",
+    "date_numeric": 1986,
+    "event": "Katastrofa w Czarnobylu",
+    "meaning": "Najpoważniejsza awaria elektrowni jądrowej w historii, o globalnych skutkach środowiskowych."
+  },
+  {
+    "id": "3af51deb-7240-4d19-9b02-10d0b0e0f010",
+    "date_human": "2003",
+    "date_numeric": 2003,
+    "event": "Ukończenie Projektu Poznania Genomu Człowieka",
+    "meaning": "Pełne zmapowanie ludzkiego DNA otwiera nową erę medycyny i genetyki."
+  },
+  {
+    "id": "a1010001-0001-4a01-9001-000000000001",
+    "date_human": "1413",
+    "date_numeric": 1413,
+    "event": "Unia horodelska",
+    "meaning": "Zacieśnienie unii polsko-litewskiej i włączenie elit litewskich do systemu politycznego Korony."
+  },
+  {
+    "id": "a1010008-0008-4a08-9008-000000000008",
+    "date_human": "1896",
+    "date_numeric": 1896,
+    "event": "Pierwsze nowożytne igrzyska olimpijskie",
+    "meaning": "Odrodzenie idei olimpijskiej w Atenach jako globalnego wydarzenia sportowego."
+  },
+  {
+    "id": "a1010009-0009-4a09-9009-000000000009",
+    "date_human": "1900",
+    "date_numeric": 1900,
+    "event": "Odkrycie promieniotwórczości",
+    "meaning": "Badania Marii Skłodowskiej-Curie zapoczątkowują fizykę jądrową i radiologię."
+  },
+  {
+    "id": "a1010010-0010-4a10-9010-000000000010",
+    "date_human": "1917",
+    "date_numeric": 1917,
+    "event": "Rewolucja październikowa",
+    "meaning": "Bolszewicy przejmują władzę w Rosji, co prowadzi do powstania ZSRR."
+  },
+  {
+    "id": "a1010011-0011-4a11-9011-000000000011",
+    "date_human": "1944-08-01",
+    "date_numeric": 19440801,
+    "event": "Powstanie warszawskie",
+    "meaning": "Zbrojny zryw Armii Krajowej przeciwko niemieckiej okupacji."
+  },
+  {
+    "id": "a1010012-0012-4a12-9012-000000000012",
+    "date_human": "1947",
+    "date_numeric": 1947,
+    "event": "Tranzystor",
+    "meaning": "Wynalezienie tranzystora zapoczątkowuje miniaturyzację elektroniki."
+  },
+  {
+    "id": "a1010013-0013-4a13-9013-000000000013",
+    "date_human": "1957",
+    "date_numeric": 1957,
+    "event": "Sputnik 1",
+    "meaning": "Pierwszy sztuczny satelita Ziemi rozpoczyna wyścig kosmiczny."
+  },
+  {
+    "id": "a1010017-0017-4a17-9017-000000000017",
+    "date_human": "1997",
+    "date_numeric": 1997,
+    "event": "Klonowanie owcy Dolly",
+    "meaning": "Pierwsze udane klonowanie ssaka z komórki somatycznej."
+  },
+  {
+    "id": "a1010018-0018-4a18-9018-000000000018",
+    "date_human": "2001-09-11",
+    "date_numeric": 20010911,
+    "event": "Zamachy z 11 września",
+    "meaning": "Ataki terrorystyczne w USA zmieniają globalną politykę bezpieczeństwa."
+  },
+  {
+    "id": "a1010019-0019-4a19-9019-000000000019",
+    "date_human": "2004-05-01",
+    "date_numeric": 2004,
+    "event": "Przystąpienie Polski do Unii Europejskiej",
+    "meaning": "Polska wchodzi do struktur UE, zyskując dostęp do wspólnego rynku i funduszy."
+  },
+  {
+    "id": "a1010020-0020-4a20-9020-000000000020",
+    "date_human": "2012",
+    "date_numeric": 2012,
+    "event": "Odkrycie bozonu Higgsa",
+    "meaning": "Eksperyment CERN potwierdza istnienie cząstki odpowiedzialnej za masę."
+  },
+  {
+    "id": "c2010004-0004-4c04-9104-000000000004",
+    "date_human": "1485",
+    "date_numeric": 1485,
+    "event": "Ukończenie Kaplicy Sykstyńskiej",
+    "meaning": "Jedno z najważniejszych dzieł renesansu, później ozdobione freskami Michała Anioła."
+  },
+  {
+    "id": "c2010001-0001-4c01-9101-000000000001",
+    "date_human": "80",
+    "date_numeric": 80,
+    "event": "Ukończenie Koloseum w Rzymie",
+    "meaning": "Największy amfiteatr starożytnego Rzymu staje się symbolem potęgi cesarstwa i kultury antycznej."
+  },
+  {
+    "id": "c2010006-0006-4c06-9106-000000000006",
+    "date_human": "1889",
+    "date_numeric": 1889,
+    "event": "Ukończenie Wieży Eiffla",
+    "meaning": "Wieża zbudowana na Wystawę Światową w Paryżu staje się ikoną nowoczesnej architektury."
+  },
+  {
+    "id": "c2010007-0007-4c07-9107-000000000007",
+    "date_human": "1937",
+    "date_numeric": 1937,
+    "event": "Powstanie obrazu „Guernica”",
+    "meaning": "Pablo Picasso tworzy antywojenne dzieło-symbol tragedii wojny domowej w Hiszpanii."
+  },
+  {
+    "id": "d3010001-0001-4d01-9201-000000000001",
+    "date_human": "ok. 1503–1506",
+    "date_numeric": 1503,
+    "event": "Powstanie „Mony Lisy”",
+    "meaning": "Leonardo da Vinci maluje najsłynniejszy portret świata, ikonę renesansowego malarstwa."
+  },
+  {
+    "id": "d3010004-0004-4d04-9204-000000000004",
+    "date_human": "1834",
+    "date_numeric": 1834,
+    "event": "Publikacja „Pana Tadeusza”",
+    "meaning": "Adam Mickiewicz wydaje narodową epopeję polską, ważną dla tożsamości kulturowej."
   }
 ]

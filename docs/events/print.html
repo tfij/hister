@@ -110,7 +110,7 @@ title: Druk wydarzeń
       container.appendChild(wrapper);
 
       new QRCode(qrBox, {
-        text: location.origin + "{{ site.baseurl }}/event.html?id=" + e.id,
+        text: location.origin + "{{ site.baseurl }}/events/event.html?id=" + e.id,
         width: 120,
         height: 120,
         correctLevel: QRCode.CorrectLevel.M
